@@ -1,0 +1,46 @@
+*{
+font-family: 'Roboto', sans-serif;
+}
+.subtitulo{
+color: wheat;
+}
+
+#Foto{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h1{
+    font-family: 'Solitreo', cursive;
+    padding-top: 6%;
+    padding-bottom: 4%;
+    margin-left: 0%;
+    color: beige;
+   
+}
+
+.col-4{
+    background-color: black;
+    text-align: right;
+    }
+.informacion{
+    color: beige;
+}
+h4{
+    color:lightpink;
+}
+.col{
+    color: beige;
+    background-color: rgb(133, 58, 4);
+}
+ul.a{
+    list-style-type: circle
+}
+
+.ocultarTexto{
+    display: none;
+}
+
+.mostrar{
+    display: block;
+}
